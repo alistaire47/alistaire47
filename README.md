@@ -5,7 +5,7 @@
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/4497050?label=%40alistaire&logo=stackoverflow&style=social)](https://stackoverflow.com/users/4497050/alistaire)
 [![LinkedIn](https://img.shields.io/badge/%2Fin%2Fevisel--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/evisel/)
 
-I'm Edward, a data scientist currently based in Chicago. I write a lot of R (:heart:) and Python (:briefcase:) and a little of a lot of other things (bash, dockerfiles, SQL, Stan, Prolog, ...). Currently I work at [Uptake](https://www.uptake.com/) doing data sciency things on the industrial IoT and leading [open source at Uptake](https://github.com/uptake/). In previous lives I've worked in politics and education.
+I'm Edward, a data scientist currently based in Chicago. I write a lot of R (:heart:) and Python (:briefcase:) and a little of a lot of other things (bash, dockerfiles, SQL, Stan, Prolog, ...). Currently I'm working in data science consulting for government; previously I've done data sciency things on the industrial IoT and worked in politics and education.
 
 #### 📂 Open source projects
 
